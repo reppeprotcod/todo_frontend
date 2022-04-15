@@ -1,0 +1,45 @@
+.Header
+{
+    color: #fff;
+    font-family: 'Rancho', cursive;
+    min-width: 219px;
+    height: 64px;
+    background: #9288FF;
+    border-radius: 5px 5px 35px 60px;
+    box-shadow: 0px 4px 4px #5D57A1;
+}
+.Date
+{
+    position: absolute;
+    height: 30px;
+    right: 33px;
+    margin-left: 22px;
+    top: 6px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.Line
+{
+    position: absolute;
+    width: 97px;
+    height: 0px;
+    left: 88px;
+    top: 39px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.TasksCount
+{
+    position: absolute;
+    width: 45px;
+    height: 25px;
+    left: 141px;
+    top: 39px;
+    font-size: 16px;
+    line-height: 25px;
+}
+

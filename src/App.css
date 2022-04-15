@@ -1,0 +1,29 @@
+.wrapApp {
+  background: linear-gradient(140deg, #9b96d6, #2a283b);
+  background-color: #adadad;
+  background-size: 100vmax;
+  height: 100vh;
+  font-family: Rancho;
+}
+
+.App
+{
+  background-color: #E5E5E5;
+  border-radius: 7px;
+  height: 316px;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: auto;
+}
+
+.menu
+{
+  position: relative;
+  z-index: 1;
+}
+.body{
+  position: relative;
+  z-index: 0;
+}
